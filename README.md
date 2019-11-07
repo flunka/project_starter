@@ -1,0 +1,3 @@
+A package for creating project scaffold and remote repo
+
+README in progress...
